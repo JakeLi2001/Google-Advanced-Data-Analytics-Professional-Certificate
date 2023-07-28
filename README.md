@@ -24,9 +24,11 @@ This repository contains the portfoilo project for the Google Advanced Data Anal
 
 **Goal:** The TikTok data team is developing a machine learning model for classifying claims made in videos submitted to the platform.
 
-**Background**: TikTok is the leading destination for short-form mobile video. The platform is built to help imaginations thrive. TikTok's mission is to create a place for inclusive, joyful, and authentic content–where people can safely discover, create, and connect.
+**Background**: At TikTok, our mission is to inspire creativity and bring joy. Our employees lead with curiosity and move at the speed of culture. Combined with our company's flat structure, you'll be given dynamic opportunities to make a real impact on a rapidly expanding company and grow your career.
 
-**Scenario:** As a data analyst on TikTok's data team, you'll help by preparing the data needed for the claims classification project. You’ll build a dataframe, organize the claims data for the process of exploratory data analysis, and update the team on your progress and insights.
+TikTok users have the ability to report videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. This process generates a large number of user reports that are difficult to address quickly. 
+
+TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
 
 [Back to TOC](#label-table-of-contents-toc)
 
@@ -40,7 +42,8 @@ This repository contains the portfoilo project for the Google Advanced Data Anal
 
 This project consists of 7 parts:
 
-1. Project proposal: Create a project proposal that organize project tasks into milestones, classify tasks using the PACE (Plan, Analyze, Construct, Execute)workflow, and identify relevant stakeholders.
+1. Project Proposal: Create a project proposal that organize project tasks into milestones, classify tasks using the PACE (Plan, Analyze, Construct, Execute)workflow, and identify relevant stakeholders.
+2. Preliminary Data Investigation: Inspect, organize, and prepare the data for analysis. Also create a executive summary to communicate important findings/insights.
 
 [Back to TOC](#label-table-of-contents-toc)
 
