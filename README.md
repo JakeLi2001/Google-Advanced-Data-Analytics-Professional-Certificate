@@ -44,9 +44,10 @@ This project consists of 7 parts:
 
 1. Project Proposal: Organize project tasks into milestones, classify tasks using the PACE (Plan, Analyze, Construct, Execute) workflow, and identify relevant stakeholders.
     - Deliverables: Project proposal
-2. Preliminary Data Investigation: Inspect, organize, and prepare the data for analysis. Also create a executive summary to communicate important findings/insights.
-    - Deliverables: Preliminary data investigation (Jupyter Notebook), executive summary
-3. 
+2. Preliminary Data Investigation: Inspect, organize, and prepare the data for analysis. Summarize findings in executive summary
+    - Deliverables: Preliminary data investigation in Jupyter Notebook, executive summary.
+3. Exploratory Data Analysis: Explore, structure, clean, analyze, and visualize data. Use Tableau to create visuals and executive summary to help non-technical stakeholders engage and interact with the data.
+    - Deliverables: EDA in Jupyter Notebook, visualizations in Tableau, executive summary
 
 [Back to TOC](#label-table-of-contents-toc)
 
