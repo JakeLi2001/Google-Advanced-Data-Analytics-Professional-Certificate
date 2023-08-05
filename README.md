@@ -46,7 +46,7 @@ This project consists of 7 parts:
     - Deliverables: Project proposal
 2. Preliminary Data Investigation: Inspect, organize, and prepare the data for analysis. Summarize findings in executive summary
     - Deliverables: Preliminary data investigation in Jupyter Notebook, executive summary.
-3. Exploratory Data Analysis: Explore, structure, clean, analyze, and visualize data. Use Tableau to create visuals and executive summary to help non-technical stakeholders engage and interact with the data.
+3. Exploratory Data Analysis: Explore, analyze, and visualize data. Use Tableau to create visuals and executive summary to help non-technical stakeholders engage and interact with the data.
     - Deliverables: EDA in Jupyter Notebook, visualizations in Tableau, executive summary
 
 [Back to TOC](#label-table-of-contents-toc)
