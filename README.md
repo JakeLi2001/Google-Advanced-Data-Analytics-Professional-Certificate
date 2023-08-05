@@ -42,8 +42,11 @@ TikTok is working on the development of a predictive model that can determine wh
 
 This project consists of 7 parts:
 
-1. Project Proposal: Create a project proposal that organize project tasks into milestones, classify tasks using the PACE (Plan, Analyze, Construct, Execute)workflow, and identify relevant stakeholders.
+1. Project Proposal: Organize project tasks into milestones, classify tasks using the PACE (Plan, Analyze, Construct, Execute) workflow, and identify relevant stakeholders.
+    - Deliverables: Project proposal
 2. Preliminary Data Investigation: Inspect, organize, and prepare the data for analysis. Also create a executive summary to communicate important findings/insights.
+    - Deliverables: Preliminary data investigation (Jupyter Notebook), executive summary
+3. 
 
 [Back to TOC](#label-table-of-contents-toc)
 
