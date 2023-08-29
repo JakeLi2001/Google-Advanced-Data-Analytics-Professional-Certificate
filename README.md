@@ -16,7 +16,26 @@ This repository contains the portfoilo project for the Google Advanced Data Anal
 
 ## :open_file_folder: File/Code Structure
 
-
+```bash
+├── data                                                            # data folder
+│   └── tiktok_dataset.csv
+├── executive_summaries                                             # executive summaries folder
+│   ├── 2_executive_summary-preliminary_data_investigation.pdf          # preliminary data investigation
+│   ├── 3_executive_summary-eda.pdf                                     # EDA
+│   ├── 4_executive_summary-statistical_testing.pdf                     # statistical testing
+│   ├── 5_executive_summary-regression_modeling.pdf                     # regression modeling
+│   └── 6_executive_summary-final_model_outcome.pdf                     # final model outcome
+├── imgs                                                                # image folder
+│   └── tiktok_data_dictionary.png
+├── 1_project_proposal.pdf                                          # project proposal
+├── 2_preliminary_data_investigation.ipynb                          # jupyter notebook for preliminary data investigation
+├── 3_EDA.ipynb                                                     # jupyter notebook for exploratory data analysis (EDA)
+├── 4_hypothesis_testing.ipynb                                      # jupyter notebook for hypothesis testing
+├── 5_regression_modeling.ipynb                                     # jupyter notebook for regression model
+├── 6_final_model.ipynb                                             # jupyter notebook for final model
+├── README.md
+└── environment.yml                                                 # required libraries (conda environment)
+```
 
 [Back to TOC](#label-table-of-contents-toc)
 
@@ -34,13 +53,13 @@ TikTok is working on the development of a predictive model that can determine wh
 
 ## :mag_right: Data Sources
 
-
+Data is provided by the course.
 
 [Back to TOC](#label-table-of-contents-toc)
 
 ## :open_book: Summary
 
-This project consists of 7 parts:
+This project consists of 6 parts:
 
 1. Project Proposal: Organize project tasks into milestones, classify tasks using the PACE (Plan, Analyze, Construct, Execute) workflow, and identify relevant stakeholders.
     - Deliverables: Project proposal
@@ -50,21 +69,25 @@ This project consists of 7 parts:
     - Deliverables: EDA in Jupyter Notebook, visualizations in Tableau, executive summary
 4. Hypothesis Testing: Conduct hypothesis testing to analyze the relationship between video_view_count and verified_status.
     - Deliverables: Hypothesis testing in Jupyter Notebook, executive summary
+5. Regression Model: Build a logistic regression model to investigate how variables are related to the `verified_status` variable.
+    - Deliverables: Regression modeling in Jupyter Notebook, executive summary
+6. Final Model: Build a Random Forest model and XGBoost model to classify if a video contains a claim or an opinion.
+    - Deliverables: Final model in Jupyter Notebook, executive summary
 
 [Back to TOC](#label-table-of-contents-toc)
 
 ## :dart: Results
 
-
+The final machine learning model built using random forest performed exceptionally well. It has a 99% accuracy and 99% recall on the test set. The model predicted opinions perfectly and only misclassified 18 claims videos as opinion.
 
 [Back to TOC](#label-table-of-contents-toc)
 
 ## :hammer_and_wrench: Tech Stack
 
+Language: Python
 
+Libraries: NumPy, pandas, Matplotlib, Seaborn, SciPy, scikit-learn, xgboost
+
+Tool: Jupyter Lab, Tableau
 
 [Back to TOC](#label-table-of-contents-toc)
-
-
-
-
