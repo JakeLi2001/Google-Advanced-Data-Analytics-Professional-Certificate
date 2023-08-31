@@ -18,6 +18,7 @@
 ├── data                                        # data folder
 │   └── HR_capstone_dataset.csv
 ├── README.md
+├── executive_summary.pdf                       # executive summary
 ├── requirements.txt                            # required libraries (environment)
 └── salifort_motors_capstone_project.ipynb      # Jupyter Notebook (all the code include EDA, data cleaning, building model, etc)
 ```
