@@ -26,9 +26,9 @@
 
 ## :memo: Project Description
 
-Background: Currently, there is a high rate of turnover among Salifort employees. (Note: In this context, turnover data includes both employees who choose to quit their job and employees who are let go). Salifort’s senior leadership team is concerned about how many employees are leaving the company. Salifort strives to create a corporate culture that supports employee success and professional development. Further, the high turnover rate is costly in the financial sense. Salifort makes a big investment in recruiting, training, and upskilling its employees. If Salifort could predict whether an employee will leave the company, and discover the reasons behind their departure, they could better understand the problem and develop a solution.
+**Goal:** Create a classification model that predicts whether an employee leave or stay and provide recommendations.
 
-Goal: Create a classification model that predicts whether an employee leave or stay.
+**Background:** Currently, there is a high rate of turnover among Salifort employees. (Note: In this context, turnover data includes both employees who choose to quit their job and employees who are let go). Salifort’s senior leadership team is concerned about how many employees are leaving the company. Salifort strives to create a corporate culture that supports employee success and professional development. Further, the high turnover rate is costly in the financial sense. Salifort makes a big investment in recruiting, training, and upskilling its employees. If Salifort could predict whether an employee will leave the company, and discover the reasons behind their departure, they could better understand the problem and develop a solution.
 
 [Back to TOC](#label-table-of-contents-toc)
 
@@ -62,6 +62,13 @@ The classification model built performed very well with the following scores:
 - ROC AUC = 0.93
 
 The model only misclassified: 46 labels as stay instead of leave and 42 labels as leave instead of stay.
+
+The EDA and the model shows that employees are overworked and long working hours doesn't offer equivalent benefits in return.To retain employees, here are the recommendations:
+
+- Cap the number of projects that employees can work on to 3 or 4.
+- If working overtime is a requirement, make sure to inform your employees about this.
+- Provide overtime pay/benefits/other rewards.
+- Design a fair evaluation metrics that is not tied to work hours. In other words, evaluation shouldn't be reserved for employees who work 200+ hours per month.
 
 [Back to TOC](#label-table-of-contents-toc)
 
