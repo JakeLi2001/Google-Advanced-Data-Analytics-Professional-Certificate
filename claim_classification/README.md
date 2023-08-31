@@ -23,7 +23,7 @@
 │   ├── 4_executive_summary-statistical_testing.pdf                     # statistical testing
 │   ├── 5_executive_summary-regression_modeling.pdf                     # regression modeling
 │   └── 6_executive_summary-final_model_outcome.pdf                     # final model outcome
-├── imgs                                                                # image folder
+├── imgs                                                            # image folder
 │   └── tiktok_data_dictionary.png
 ├── 1_project_proposal.pdf                                          # project proposal
 ├── 2_preliminary_data_investigation.ipynb                          # jupyter notebook for preliminary data investigation
