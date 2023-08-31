@@ -32,7 +32,7 @@
 ├── 5_regression_modeling.ipynb                                     # jupyter notebook for regression model
 ├── 6_final_model.ipynb                                             # jupyter notebook for final model
 ├── README.md
-└── environment.yml                                                 # required libraries (conda environment)
+└── requirements.txt                                                # required libraries (environment)
 ```
 
 [Back to TOC](#label-table-of-contents-toc)
