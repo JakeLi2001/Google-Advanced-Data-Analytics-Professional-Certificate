@@ -15,10 +15,11 @@
 ## :open_file_folder: File/Code Structure
 
 ```bash
-├── data
+├── data                                        # data folder
 │   └── HR_capstone_dataset.csv
 ├── README.md
-└── salifort_motors_capstone_project.ipynb
+├── requirements.txt                            # required libraries (environment)
+└── salifort_motors_capstone_project.ipynb      # Jupyter Notebook (all the code include EDA, data cleaning, building model, etc)
 ```
 
 [Back to TOC](#label-table-of-contents-toc)
